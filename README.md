@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alecmonroy 
-- 🌱 I’m currently learning TypeScript, Angular
+- 🌱 I’m currently learning TypeScript, Angular & Spring
 - 📩 alejandrinacmonroy@gmail.com
 
 <!---
